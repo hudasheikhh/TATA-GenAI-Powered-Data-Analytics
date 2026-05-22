@@ -62,7 +62,3 @@ The model predicts whether a customer is likely to become delinquent based on fi
 - Microsoft Word
 
 ---
-
-## Author
-**Huda Shaikh**
-**Tata Data Analytics Virtual Internship 2026**
